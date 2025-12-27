@@ -4,9 +4,9 @@
 
 ## Hi there!
 
-[Email](mailto:yourname@gmail.com) ·
-[LinkedIn](https://linkedin.com/in/yourprofile) ·
-[Website](https://yourname.github.io)
+[Email](mailto:tinarahimi.ce@gmail.com) ·
+[LinkedIn](https://linkedin.com/in/tina200281) ·
+[Website](https://tinarahimice.github.io)
 
 ---
 
