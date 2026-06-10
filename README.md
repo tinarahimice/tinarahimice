@@ -23,15 +23,14 @@
 ### Machine Learning & Deep Learning
 - Scikit-learn
 - PyTorch
-- Transformers (Hugging Face)
 
 ### LLM / Generative AI & RAG
 - LlamaIndex
-- Hugging Face Datasets
+- LangChain
+- LangGraph
+- Transformers (Hugging Face)
 - OpenAI API
 - Ollama
-- RAG pipelines
-- Embeddings
 - Prompt engineering
 
 ### Backend & Model Serving
@@ -51,10 +50,12 @@
 ### Databases & Search
 - SQL Server
 - MongoDB
+- Redis
 - Elasticsearch
 
 ### Data Engineering & MLOps Tooling
 - Apache Airflow
+- ML flow
 - Git
 - Docker
 
@@ -66,5 +67,6 @@
 
 ### Core Knowledge
 - Machine Learning
+- Deep Learning
 - Natural Language Processing (NLP)
 - Applied Linear Algebra
